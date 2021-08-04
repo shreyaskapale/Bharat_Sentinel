@@ -1,6 +1,6 @@
 # sentinel
 
-Sentinel is a open-source non-root firewall and antivirus.
+Sentinel is a open-source non-root firewall and antivirus for Android OS.
 
 ## Getting Started
 
