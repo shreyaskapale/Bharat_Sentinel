@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./../../../flutter/.pub-cache/hosted/pub.dartlang.org/background_fetch-0.5.6/android/libs/tsbackgroundfetch-0.4.5.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/abe09a80e745e8adc0b2decef8f1d395/tsbackgroundfetch-0.4.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/abe09a80e745e8adc0b2decef8f1d395/tsbackgroundfetch-0.4.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/abe09a80e745e8adc0b2decef8f1d395/tsbackgroundfetch-0.4.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
